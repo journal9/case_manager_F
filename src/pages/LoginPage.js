@@ -1,11 +1,13 @@
 import React from "react";
-import BoardPage from "./BoardPage";
+import Homeheader from "../components/Homeheader";
+import LoginBack from "../components/LoginBack";
 
 function LoginPage() {
   return (
     <div>
-      <div>LoginPage</div>
-      <BoardPage />
+      <Homeheader/>
+      <LoginBack/>
+      <div>LoginPage Other info</div>
     </div>
   );
 }

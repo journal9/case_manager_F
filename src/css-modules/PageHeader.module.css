@@ -1,0 +1,28 @@
+.p_header{
+    height: 5rem;
+    display: flex;
+    border-bottom: 5px;
+    border-bottom-color: rgb(191, 191, 191);
+    border-bottom-width: 2rem;
+}
+
+.hmb{
+    margin-left: auto;
+    margin-right: 1rem;
+    vertical-align: middle;
+    min-height: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.out{
+    height: 3rem;
+    width: 9.4rem;
+    margin-right: 4rem;
+    margin-top: 0.6rem;
+    background-color: white;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-color: rgb(51, 118, 176);
+    border-radius: 5px;
+}

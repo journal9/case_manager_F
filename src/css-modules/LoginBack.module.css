@@ -2,4 +2,30 @@
     /* position: relative; */
     height: 32rem;
     background-color: rgb(242, 236, 255);
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.frame{
+    align-content: space-between;
+}
+.title{
+    font-size: 5rem;
+    color: rgb(33, 33, 33);
+}
+.par{
+    color: rgb(128, 128, 128);
+    font-size: large;
+}
+.btn_login{
+    margin-top: 2rem;
+    height: 3rem;
+    width: 9.4rem;
+    background-color: white;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-color: aliceblue;
+    box-shadow: 5px;
+    border-radius: 0.5rem;
 }

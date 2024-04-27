@@ -1,8 +1,12 @@
 import React from 'react'
+import Board from '../components/Board'
 
 function Pageback() {
   return (
-    <div>Pageback</div>
+    <div>
+      Pageback
+      <Board/>
+      </div>
   )
 }
 

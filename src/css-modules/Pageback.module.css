@@ -5,3 +5,44 @@
     min-width: 72%;
     /* background-color: rgb(213, 219, 202); */
 }
+.intro{
+    padding-block-start: 2rem;
+    display: flex;
+    margin-left: 8%;
+}
+.badge{
+    background-color: red;
+    height: 5rem;
+    width: 5rem;
+}
+.user{
+    display: flex;
+    flex-direction: column;
+}
+.name{
+    padding-left: 1rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 400px;
+}
+.username{
+    padding-left: 0%;
+}
+.status{
+    margin-left: auto;
+    margin-inline-end: 4rem;
+    width: 8.4rem;
+    height: 3rem;
+    border-radius: 1.5rem;
+    background-color: rgb(62, 134, 62);
+    color: white;
+    display: table;
+    text-align: center;
+}
+
+.status > div{
+    display: table-cell;
+    vertical-align: middle;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 24px;
+}

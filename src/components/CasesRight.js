@@ -4,7 +4,7 @@ import classes from "../css-modules/CasesRight.module.css";
 function CasesRight() {
   return (
     <div className={classes.cases}>
-      CasesRight
+      <br></br>
       <div className={classes.nav}>
         <div className={classes.options}>ALL</div>
         <div className={classes.options}>OPENED</div>

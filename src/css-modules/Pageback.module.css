@@ -1,0 +1,7 @@
+.boardback{
+    display: flex;
+    flex-direction: column;
+    max-width: 75%;
+    min-width: 72%;
+    /* background-color: rgb(213, 219, 202); */
+}

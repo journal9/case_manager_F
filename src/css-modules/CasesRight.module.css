@@ -1,0 +1,22 @@
+.cases{
+    margin-left: auto;
+    width: 28%;
+    height: 90vh;
+    border-left: 2px solid rgb(199, 199, 199);
+}
+.nav{
+    display: flex;
+    margin-block-start: 2rem;
+    border-left: 1rem solid white;
+}
+.options{
+    flex-basis: 0;
+    flex-grow: 1;
+    height: max-content;
+    background-color: rgb(234, 240, 249);
+    padding: 0.5em;
+    padding-top: 1em;
+    border-bottom: 0.5rem solid white;
+    border-right: 0.6rem solid white;
+    border-color: white;
+}

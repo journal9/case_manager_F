@@ -1,0 +1,7 @@
+.card{
+    width: 100%;
+    height: 5rem;
+    background-color: rgb(205, 205, 237);
+    margin-inline-start: 1rem;
+    margin-block-end: 0.6rem;
+}

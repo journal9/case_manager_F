@@ -20,3 +20,8 @@
     border-right: 0.6rem solid white;
     border-color: white;
 }
+.listcases{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+}

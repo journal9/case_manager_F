@@ -6,12 +6,12 @@
     /* background-color: rgb(213, 219, 202); */
 }
 .intro{
-    padding-block-start: 2rem;
+    margin-top: 0px;
+    padding-block-start: 0.2rem;
     display: flex;
     margin-left: 8%;
 }
 .badge{
-    background-color: red;
     height: 5rem;
     width: 5rem;
 }
@@ -20,13 +20,14 @@
     flex-direction: column;
 }
 .name{
-    padding-left: 1rem;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
     font-weight: 400px;
 }
 .username{
     padding-left: 0%;
+    font-size: 20px;
+    margin-right: auto;
 }
 .status{
     margin-left: auto;
@@ -45,4 +46,31 @@
     vertical-align: middle;
     font-family:'Times New Roman', Times, serif;
     font-size: 24px;
+}
+.workingboard{
+    margin-top: 0.5rem;
+    padding-left: 4rem;
+    padding-top: 3rem;
+    margin-bottom: 0.5rem;
+    border-top: 2px solid rgb(228, 228, 228);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.addcase{
+    padding-top: 1rem;
+    margin-left: auto;
+    margin-right: 6rem;
+    display: flex;
+}
+.add{
+    height: 3rem;
+    width: 3rem;
+}
+.say{
+    text-align: center;
+    padding-top: 0.8rem;
+    font-size: 20px;
+    margin-right: 0.4rem;
 }

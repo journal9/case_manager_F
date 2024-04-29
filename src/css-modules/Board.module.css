@@ -1,6 +1,10 @@
 .bd{
-    background-color: aliceblue;
+    background-color: rgb(247, 251, 255);
     height: 70%;
+    border: 3px solid rgb(160, 160, 160);
     margin-top: auto;
     padding: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
 }
